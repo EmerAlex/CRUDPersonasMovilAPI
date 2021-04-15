@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Persona cliente 2021</string>
+    <string name="datos_persona">Datos de la persona</string>
+    <string name="digite_numero_documento">Digite el nùmero de documento</string>
+    <string name="digite_nombre">Digite un nombre</string>
+    <string name="digite_apellido">Digite un apellido</string>
+    <string name="listado_persona">Listado de personas</string>
+    <string name="registro_persona">Registro persona</string>
+    <string name="insertar">Insertar</string>
+    <string name="guardar">Guardar</string>
+    <string name="sin_infomacion">No existen personas registradas en el sistema</string>
+    <string name="confirm">Confirmar</string>
+    <string name="confirm_message_guardar_informacion">¿Está seguro de guardar la información?</string>
+    <string name="confirm_action">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="seleccione">-- Seleccione --</string>
+    <string name="confirm_message_eliminar_informacion">Desea eliminar este registro</string>
+    <string name="documeto_vacio">El socumento de Identidad no puese estar vacio</string>
+    <string name="nombre_vacio">El nombre no puede ser vacio</string>
+    <string name="apellido_vacio">El apellido no puede ser vacio</string>
+    <string name="tipo_documento_no_valido">El tipo de documneto no puede ser \"Seleccione\"</string>
+    <string name="nomnbre">Nombre: </string>
+    <string name="apellido">Apellido: </string>
+    <string name="editar_persona">Editar Persona</string>
+    <string name="editar">Editar</string>
+    <string name="documento">"Documento: "</string>
+</resources>
